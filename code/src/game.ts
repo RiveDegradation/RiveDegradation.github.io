@@ -14,7 +14,7 @@
 import Rive, { RiveCanvas, File, WrappedRenderer, StateMachineInstance, Artboard } from '@rive-app/webgl-advanced';
 
 // Version control for reproducing the issue
-const VERSION = '2.21.6'; //In case you want to test with a different version. Remember to change package.json as well.
+const VERSION = '2.27.5'; //In case you want to test with a different version. Remember to change package.json as well.
 
 // Core rendering variables
 let rive : RiveCanvas;

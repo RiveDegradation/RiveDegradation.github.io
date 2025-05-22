@@ -19,7 +19,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@rive-app/webgl-advanced": "2.21.6"
+    "@rive-app/webgl-advanced": "2.27.5"
   },
   "devDependencies": {
     "typescript": "latest",
